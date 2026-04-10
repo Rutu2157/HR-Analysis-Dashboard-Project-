@@ -45,17 +45,11 @@ Key Columns:
 🔹 Visualizations Included
 
   📌 Attrition by Department
-  
   📌 Attrition by Job Role
-  
   📌 Attrition by Age Group
-  
   📌 Gender Distribution
-  
   📌 Salary Analysis
-  
   📌 Years at Company vs Attrition
-  
   📌 Job Satisfaction Analysis
   
 🔹 Interactive Elements
