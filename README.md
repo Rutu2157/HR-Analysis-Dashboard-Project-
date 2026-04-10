@@ -43,14 +43,13 @@ Key Columns:
    - Average Years at Company
      
 🔹 Visualizations Included
-
-  📌 Attrition by Department
-  📌 Attrition by Job Role
-  📌 Attrition by Age Group
-  📌 Gender Distribution
-  📌 Salary Analysis
-  📌 Years at Company vs Attrition
-  📌 Job Satisfaction Analysis
+   - Attrition by Department
+   - Attrition by Job Role
+   - Attrition by Age Group
+   - Gender Distribution
+   - Salary Analysis
+   - Years at Company vs Attrition
+   - Job Satisfaction Analysis
   
 🔹 Interactive Elements
  Slicers for:
